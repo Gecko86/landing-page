@@ -7,7 +7,6 @@
 body {
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
-    background-color: #18191A;
     color: #0B1215;
 }
 
@@ -99,3 +98,14 @@ body {
 
 /* Random Information */
 
+.info p {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    text-align: center;
+    margin: 30px 0;
+}
+
+.info .container {
+    background-color: white;
+}
